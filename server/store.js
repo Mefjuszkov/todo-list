@@ -28,3 +28,6 @@ const addTask = async ({ title }) => (
 module.exports = {
   init
 }
+module.exports = {
+  addTask, init
+}
