@@ -16,4 +16,4 @@ router.delete('/', async (ctx) => {
   ctx.status = 200
 })
 
-module.exports = router
+module.exports = router 
